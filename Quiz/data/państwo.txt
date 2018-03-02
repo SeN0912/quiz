@@ -1,0 +1,201 @@
+abchazja
+afganistan
+albania
+algieria
+andora
+angola
+antigua i barbuda
+arabia saudyjska
+argentyna
+armenia
+australia
+austria
+azerbejdżan
+bahamy
+bahrajn
+bangladesz
+barbados
+belgia
+belize
+benin
+bhutan
+białoruś
+birma
+boliwia
+bośnia i hercegowina
+botswana
+brazylia
+brunei
+bułgaria
+burkina faso
+burundi
+chile
+chiny
+chorwacja
+cypr
+cypr północny
+czad
+czarnogóra
+czechy
+dania
+demokratyczna republika konga
+dominika
+dominikana
+dżibuti
+egipt
+ekwador
+erytrea
+estonia
+etiopia
+fidżi
+filipiny
+finlandia
+francja
+gabon
+gambia
+ghana
+górski karabach
+grecja
+grenada
+gruzja
+gujana
+gwatemala
+gwinea
+gwinea bissau
+gwinea równikowa
+haiti
+hiszpania
+holandia
+honduras
+indie
+indonezja
+irak
+iran
+irlandia
+islandia
+izrael
+jamajka
+japonia
+jemen
+jordania
+kambodża
+kamerun
+kanada
+katar
+kazachstan
+kenia
+kirgistan
+kiribati
+kolumbia
+komory
+kongo
+korea południowa
+korea północna
+kosowo
+kostaryka
+kuba
+kuwejt
+laos
+lesotho
+liban
+liberia
+libia
+liechtenstein
+litwa
+luksemburg
+łotwa
+macedonia
+madagaskar
+malawi
+malediwy
+malezja
+mali
+malta
+maroko
+mauretania
+mauritius
+meksyk
+mikronezja
+mołdawia
+monako
+mongolia
+mozambik
+naddniestrze
+namibia
+nauru
+nepal
+niemcy
+niger
+nigeria
+nikaragua
+norwegia
+nowa zelandia
+oman
+osetia południowa
+pakistan
+panama
+papua - nowa gwinea
+paragwaj
+peru
+polska
+portugalia
+republika południowej afryki
+republika środkowoafrykańska
+republika zielonego przylądka
+rosja
+rumunia
+rwanda
+sahara zachodnia
+saint kitts i nevis
+saint lucia
+saint vincent i grenadyny
+salwador
+samoa
+san marino
+senegal
+serbia
+seszele
+sierra leone
+singapur
+słowacja
+słowenia
+somalia
+somaliland
+sri lanka
+stany zjednoczone
+suazi
+sudan
+sudan południowy
+surinam
+syria
+szwajcaria
+szwecja
+tadżykistan
+tajlandia
+tajwan
+tanzania
+timor wschodni
+togo
+tonga
+trynidad i tobago
+tunezja
+turcja
+turkmenistan
+tuvalu
+uganda
+ukraina
+urugwaj
+uzbekistan
+vanuatu
+watykan
+wenezuela
+węgry
+wielka brytania
+wietnam
+włochy
+wybrzeże kości słoniowej
+wyspy salomona
+wyspy świętego tomasza i książęca
+zambia
+zimbabwe
+zjednoczone emiraty arabskie

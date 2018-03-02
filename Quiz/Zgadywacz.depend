@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1519864777 source:/home/root2/Documents/Codeblocks project/Zgadywacz/Game.cpp
+	"Game.h"
+
+1519863880 /home/root2/Documents/Codeblocks project/Zgadywacz/Game.h
+	<string>
+	<cstdlib>
+	<cstdio>
+	<unistd.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<errno.h>
+	<error.h>
+	<netdb.h>
+	<sys/epoll.h>
+	<poll.h>
+	<signal.h>
+	<iterator>
+	<iostream>
+	<algorithm>
+	<fstream>
+	<thread>
+	<vector>
+	"User.h"
+
+1519865386 source:/home/root2/Documents/Codeblocks project/Zgadywacz/main.cpp
+	"main.h"
+
+1519687301 source:/home/root2/Documents/Codeblocks project/Zgadywacz/User.cpp
+	"User.h"
+
+1519856883 /home/root2/Documents/Codeblocks project/Zgadywacz/User.h
+	<string>
+	<time.h>
+
+1519867453 /home/root2/Documents/Codeblocks project/Zgadywacz/main.h
+	<iostream>
+	"game.h"
+
+1519867456 /home/root2/Documents/Codeblocks project/Zgadywacz/game.h
+	<string>
+	<cstdlib>
+	<cstdio>
+	<unistd.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<errno.h>
+	<error.h>
+	<netdb.h>
+	<sys/epoll.h>
+	<poll.h>
+	<signal.h>
+	<iterator>
+	<iostream>
+	<algorithm>
+	<fstream>
+	<thread>
+	<vector>
+	"user.h"
+
+1519856883 /home/root2/Documents/Codeblocks project/Zgadywacz/user.h
+	<string>
+	<time.h>
+
+1519867453 source:/home/root2/Documents/Codeblocks project/Zgadywacz/game.cpp
+	"game.h"
+
+1520017115 source:/home/root2/Documents/Codeblocks project/server/game.cpp
+	"game.h"
+
+1520017115 /home/root2/Documents/Codeblocks project/server/game.h
+	<string>
+	<cstdlib>
+	<cstdio>
+	<unistd.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<errno.h>
+	<error.h>
+	<netdb.h>
+	<sys/epoll.h>
+	<poll.h>
+	<signal.h>
+	<iterator>
+	<iostream>
+	<algorithm>
+	<fstream>
+	<thread>
+	<vector>
+	"user.h"
+
+1520016767 /home/root2/Documents/Codeblocks project/server/user.h
+	<string>
+	<time.h>
+	<iterator>
+
+1519867989 source:/home/root2/Documents/Codeblocks project/server/main.cpp
+	"main.h"
+
+1519867989 /home/root2/Documents/Codeblocks project/server/main.h
+	<iostream>
+	"game.h"
+
+1519867989 source:/home/root2/Documents/Codeblocks project/server/user.cpp
+	"user.h"
+
